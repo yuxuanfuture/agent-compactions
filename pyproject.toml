@@ -1,0 +1,10 @@
+[project]
+name = "compact"
+version = "0.1.0"
+description = "Compact-mode runner with Codex remote compaction v2 support"
+requires-python = ">=3.10"
+dependencies = []
+
+[project.scripts]
+compact = "compact:main"
+compact-main = "main:main"
