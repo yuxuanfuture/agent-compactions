@@ -1,4 +1,4 @@
-# compact
+# agent-compactions
 
 这是一个“主模型执行任务 + 独立压缩模型做上下文压缩”的实验工程。
 
